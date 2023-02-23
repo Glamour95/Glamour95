@@ -1,6 +1,5 @@
-### HAPPY VALENTINE'S MONTH WORLD😊❤️
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
-![PoohValentineGIF (2)](https://user-images.githubusercontent.com/118850729/219050352-e60b42b9-31bf-46ee-b5ac-7f7d6e9919b4.gif)
+![HelloWorldGIF](https://user-images.githubusercontent.com/118850729/220902811-3d74b167-14c7-44c3-a3d9-48fcbc884f7c.gif)
+--------Welcome-------
 
 
 <!--
@@ -8,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Shell 
+- 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning Software engineering
 - 👯 I’m looking to collaborate on ALX Africa
 - 🤔 I’m looking for help with ...
