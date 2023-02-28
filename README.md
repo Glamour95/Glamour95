@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python 
+- 🔭 I’m currently working on C, Python, HTML, CSS & JavaScript 
 - 🌱 I’m currently learning Software engineering
 - 👯 I’m looking to collaborate on ALX Africa
 - 🤔 I’m looking for help with ...
