@@ -5,14 +5,10 @@
 <!--
 **Glamour95/Glamour95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Glamour is an experienced software developer with expertise in Java, Python, JavaScript, and C++. she has a strong foundation in software methodologies like Agile, Scrum, and DevOps, as well as web development skills and a good understanding of HTML and CSS, and frameworks such as React, Angular, and Vue.js. Passionate about mobile development, Glamour is skilled in developing applications for iOS, Android, React Native, and Flutter platforms, with a proven track record of delivering successful projects and making significant contributions to various teams.
 
-- 🔭 I’m currently working on C, Python, HTML, CSS & JavaScript 
-- 🌱 I’m currently learning Software engineering
-- 👯 I’m looking to collaborate on ALX Africa
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 you can reach me on linkedin on www.linkedin.com/in/glamour-maphanga
-- 😄 Pronouns: i am her/she
-- ⚡ Fun fact: I make things interesting
--->
+Glamour is also proficient in database management tools such as MySQL, Oracle, and MongoDB, with experience in database design and management, including SQL and NoSQL databases. She is also familiar with cloud platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
+
+As a team player, Glamour is committed to working effectively in a team and supporting others in achieving common goals. She approaches problems and challenges with creativity and innovation, always looking for ways to develop new software applications or technologies that solve real-world problems and solve complex problems with software solutions.
+
+In her free time, Glamour enjoys spending time with friends and family, attending parties or events, and meeting new people. She also loves helping out at local charities or community organizations and participating in fundraising or awareness campaigns.
