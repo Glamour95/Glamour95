@@ -1,6 +1,4 @@
-![HelloWorldGIF](https://user-images.githubusercontent.com/118850729/220902811-3d74b167-14c7-44c3-a3d9-48fcbc884f7c.gif)
---------Welcome-------
-
+![CatComputerGIF](https://user-images.githubusercontent.com/118850729/223122683-fdee7453-4722-4de8-9363-4522b2b03a75.gif)
 
 <!--
 **Glamour95/Glamour95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
