@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/118850729/234569289-2ceaa2b8-88d0-451e-9aaa-e5b7d948e8ef.png)
+![image](https://user-images.githubusercontent.com/118850729/234570866-48616cec-641d-4f27-ad11-35232f086d9c.png)
+![image](https://user-images.githubusercontent.com/118850729/234570926-f62a47d7-dfb1-4a8c-a13c-1ac133d81df9.png)
 
 ![image](https://user-images.githubusercontent.com/118850729/234568727-0b18b41a-a1aa-4291-a96c-07655db880d3.png)
 ![image](https://user-images.githubusercontent.com/118850729/234568800-cf4125f8-29e2-4117-9d01-63cc95d09cab.png)
@@ -6,7 +8,9 @@
 ![image](https://user-images.githubusercontent.com/118850729/234568951-bf9151e0-efb5-419c-a54f-c74e64d8927c.png)
 ![image](https://user-images.githubusercontent.com/118850729/234569002-326f26d9-0f3d-4646-b058-d803dfcaee29.png)
 ![image](https://user-images.githubusercontent.com/118850729/234569090-4096a93b-1483-494b-a220-8bb61e257bd7.png)
-https://learn.microsoft.com/en-gb/certifications/power-bi-data-analyst-associate/
+![image](https://user-images.githubusercontent.com/118850729/234570230-c5e9b26b-3439-4c84-83b3-bcb779269185.png)
+![image](https://user-images.githubusercontent.com/118850729/234570282-fc4a6852-6973-4926-a5aa-faca236dfa33.png)
+
 
 <!--
 **Glamour95/Glamour95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
